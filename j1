@@ -1,3 +1,2 @@
-#!/usr/bin/python
-name = yashvant
-print(name)
+# hello.py
+print('hello Git!')
