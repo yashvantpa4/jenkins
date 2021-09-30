@@ -1,2 +1,3 @@
+#!/usr/bin/python
 name = yashvant
 print(name)
